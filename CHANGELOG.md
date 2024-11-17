@@ -1,5 +1,10 @@
 ## This is for big projects with multiple people working on it at once
 
+### Examples:
+
+add new features  
+refresh data
+
 ## Change Log
 
 ---
