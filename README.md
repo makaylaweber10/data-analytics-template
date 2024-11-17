@@ -26,5 +26,7 @@ Simple description
 
 ---
 
+date: developer -- change(s) made
+
 - 2024-11-17 MW added new items
 - 2024-11-15 MW deleted old items
