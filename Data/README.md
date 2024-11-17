@@ -1,6 +1,6 @@
 # Data_folder
 
-## folders
+## Folders
 
 ---
 
