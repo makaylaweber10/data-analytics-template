@@ -2,12 +2,21 @@
 
 Starting template for data projects
 
+# Application name
+
+## Details
+
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+url to running project
+
+Simple description
 
 ### To do list
 
 ---
 
+[x] ~~Catch all selected activities in /add and put them into the list~~  
 [ ] task 1  
 [ ] task 2  
 [ ] task 3  
