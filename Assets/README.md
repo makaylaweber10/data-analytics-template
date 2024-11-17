@@ -2,5 +2,7 @@
 
 # Examples:
 
-PDFs about context for the project
+---
+
+PDFs about context for the project  
 Downloaded items off the web to help me understand what to do
